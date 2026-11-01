@@ -1,0 +1,9 @@
+sounddevice>=0.4.6
+soundfile>=0.12.1
+numpy>=1.26
+pynput>=1.7.6
+soxr>=1.1.0
+customtkinter>=6.0.0
+pystray>=0.19.5
+pillow>=10.0.0
+pytest>=8.0.0
